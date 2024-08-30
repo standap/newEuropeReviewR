@@ -1,2 +1,2 @@
 # newEuropeReviewR
-This is repository contains text corpus created from a complete run of the foreign policy weekly *The New Europe* that was published between 1916 and 1921. 
+This is repository contains an R data package that consists of text corpus of a complete run of the foreign policy weekly *The New Europe* that was published between 1916 and 1921. 
