@@ -11,6 +11,7 @@ Description: This is repository contains an R data package that consists of text
 License: MIT + file LICENSE
 URL: "https://github.com/standap/peaceBooksR"
 LazyData: true
+LazyDataCompression:xz
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2

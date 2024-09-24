@@ -1,0 +1,27 @@
+#' Articles Published in the New Europe weekly
+#'
+#' Description of the daatset.
+#'
+#' @format A tibble with 2128 rows and 15 variables:
+#' \describe{
+#'   \item{doc_id}{id of the article published in the New Europe Review}
+#'   \item{text}{dbl Month price was recorded. Ranges from 1-12 for January - December} 
+#'   \item{author}{dbl denoting monthly price for the 0-15/lb. size class}
+#'   \item{author_norm}{dbl denoting monthly price for the 15-20/lb. size class}
+#'   \item{date}{dbl denoting monthly price for the 20-25/lb. size class}
+#'   \item{type}{dbl denoting monthly price for the 25-30/lb. size class}
+#'   \item{volume}{dbl denoting monthly price for the 30-40/lb. size class}
+#'   \item{number}{dbl denoting monthly price for the 40-50/lb. size class}
+#'   \item{year}{dbl denoting monthly price for the 50-67/lb. size class}
+#'   \item{article}{dbl denoting monthly price of pieces of shrimp totalling a pound}
+#'   \item{article_title}{dbl denoting monthly price of pieces of shrimp totalling a pound}
+#'   \item{source}{dbl denoting monthly price of pieces of shrimp totalling a pound}
+#'   \item{countries}{dbl denoting monthly price of pieces of shrimp totalling a pound}
+#'   \item{mentioned}{dbl denoting monthly price of pieces of shrimp totalling a pound}
+#'   \item{single_multi}{dbl denoting monthly price of pieces of shrimp totalling a pound}
+#' }
+#' @source Extracted, edited, and transformed into a dataset by Stanislav Pejša.
+#'
+#' @examples
+#'   tne_articles
+"tne_articles"
