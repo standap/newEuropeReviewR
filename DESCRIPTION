@@ -1,12 +1,17 @@
 Package: newEuropeReviewR
-Title: What the Package Does (One Line, Title Case)
+Title: The New Europe Data Package contains the whole run of the foreign policy weekly.
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Stanislav", "Pejša", , "spejsa@purdue.edu",
+    role = c("aut", "cre"),
+    comment = c(ORCID = "0000-0001-5057-262X"))
+Date: 2024
+Maintainer: The package maintainer <spejsa@purdue.edu>
+Description: This is repository contains an R data package that consists of text
+corpus of a complete run of the foreign policy weekly _The New Europe_
+that was published between 1916 and 1921.
+License: MIT + file LICENSE
+URL: "https://github.com/standap/peaceBooksR"
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
