@@ -19,7 +19,7 @@ EUROPE:
     'JW': [Jews, Jewish, Hebrew, Zionis*, Jerusalem]
    contains a code 
 
-The `tne_countries` dataset contains six columns. The document identifier, two-letter  country code, number of times a term related to the identifier was mentioned , the date when the docuemnt was publish, extracted year of publication, and the type of text in the New Europe weekly. 
+The `tne_countries` dataset contains six columns. The document identifier, two-letter  country code, number of times a term related to the identifier was mentioned , the date when the document was publish, extracted year of publication, and the type of text in the New Europe weekly. 
 
 
 ```
