@@ -1,19 +1,23 @@
 Package: newEuropeReviewR
-Title: The New Europe Data Package contains the whole run of the foreign policy weekly
-Version: 0.0.0.9002
+Title: The New Europe Data Package contains the complete run of the foreign policy weekly _The New Europe_
+Version: 0.9
 Authors@R: 
-    person("Stanislav", "Pejša", , "spejsa@purdue.edu",
+    person(given = "Stanislav",
+    family = "Pejša",
+    email = "spejsa@purdue.edu",
     role = c("aut", "cre"),
     comment = c(ORCID = "0000-0001-5057-262X"))
 Date: 2024
 Maintainer: The package maintainer <spejsa@purdue.edu>
-Description: This is repository contains an R data package that consists of text corpus of a complete run of the foreign policy weekly _The New Europe_ that was published between 1916 and 1921.
+Description: This R data package contains text corpus of a complete run of the foreign policy weekly _The New Europe_ that was published between 1916 and 1921. The dataset allows for textual analysis of the weekly.
 License: MIT + file LICENSE
 URL: "https://github.com/standap/peaceBooksR"
 LazyData: true
-LazyDataCompression:xz
+LazyDataCompression: xz
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Depends: 
     R (>= 2.10)
+Imports: 
+    tibble
