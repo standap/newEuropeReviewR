@@ -4,7 +4,7 @@
 \name{newEuropeReviewR-package}
 \alias{newEuropeReviewR}
 \alias{newEuropeReviewR-package}
-\title{newEuropeReviewR: The New Europe Data Package contains the complete run of the foreign policy weekly _The New Europe_}
+\title{newEuropeReviewR: Data package contains complete run of the foreign policy weekly 'The New Europe'}
 \description{
 This R data package contains text corpus of a complete run of the foreign policy weekly _The New Europe_ that was published between 1916 and 1921. The dataset allows for textual analysis of the weekly.
 }

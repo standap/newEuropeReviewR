@@ -1,5 +1,5 @@
 Package: newEuropeReviewR
-Title: The New Europe Data Package contains the complete run of the foreign policy weekly _The New Europe_
+Title: Data package contains complete run of the foreign policy weekly 'The New Europe'
 Version: 0.9
 Authors@R: 
     person(given = "Stanislav",
