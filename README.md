@@ -1,7 +1,5 @@
 # newEuropeReviewR
-This is repository contains an R data package that consists of text corpus of a complete run of the foreign policy weekly *The New Europe* that was published between 1916 and 1921. 
-
-
+This is repository contains an R data package that consists of text corpus of the aticles from the complete run of the foreign policy weekly *The New Europe* that was published between 1916 and 1921. It also contains an additional file with frequencies of terms that are associated with a freat nuber of countries mentioned on the pages of _The New Europe_ weekly. 
 
 ## tne_countries
 This dataset was created with a dictionary running against a the whole corpus
@@ -25,14 +23,14 @@ regions_dfm <- dfm(countries)
 EUROPE:
 
   EAST:
-     AH': [Austria-Hungar*, Austro-Hungar*, Ballhausplatz, Habsburg]
-    'BG': [Bulgaria*, Bulgarian*, Bulgars, Sofia]
-    'CS': [Czechoslovak*, Czecho-Slovakia, Czech*, Slovak*, Slovakia, Prague, Bratislava, Ruthenian*, Pressburg, Bohemia, Moravia]
-#    'CZ': [Czech Republic, Czech*, Prague]
-    'HU': [Hungary, Hungarian*, Budapest, Magyar*]
-    'PL': [Poland, Polish, Pole*, Warsaw, Cracow, Danzig]
-    'RO': [Ro*mania, Ro*manian*, Bucharest, Transylvania*, Bessarabia*, Bukovina, Wallachia*, Dobrudja]
-    'JW': [Jews, Jewish, Hebrew, Zionis*, Jerusalem]
+     AH': [Austria-Hungar*, Austro-Hungar*, Ballhausplatz, Habsburg]  
+    'BG': [Bulgaria*, Bulgarian*, Bulgars, Sofia]  
+    'CS': [Czechoslovak*, Czecho-Slovakia, Czech*, Slovak*, Slovakia, Prague, Bratislava, Ruthenian*, Pressburg, Bohemia, Moravia]  
+\#  'CZ': [Czech Republic, Czech*, Prague]  
+    'HU': [Hungary, Hungarian*, Budapest, Magyar*]  
+    'PL': [Poland, Polish, Pole*, Warsaw, Cracow, Danzig]  
+    'RO': [Ro*mania, Ro*manian*, Bucharest, Transylvania*, Bessarabia*, Bukovina, Wallachia*, Dobrudja]  
+    'JW': [Jews, Jewish, Hebrew, Zionis*, Jerusalem]  
    contains a code 
 
 The `tne_countries` dataset contains five columns. The document identifier, two-letter  country code, number of times a term related to the identifier was mentioned , the date when the article was published, and the type of text in the New Europe weekly. 
