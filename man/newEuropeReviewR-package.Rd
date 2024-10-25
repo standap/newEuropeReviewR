@@ -8,13 +8,6 @@
 \description{
 This R data package contains text corpus of a complete run of the foreign policy weekly _The New Europe_ that was published between 1916 and 1921. The dataset allows for textual analysis of the weekly.
 }
-\seealso{
-Useful links:
-\itemize{
-  \item \url{"https://github.com/standap/peaceBooksR"}
-}
-
-}
 \author{
 \strong{Maintainer}: Stanislav Pejša \email{spejsa@purdue.edu} (\href{https://orcid.org/0000-0001-5057-262X}{ORCID})
 
