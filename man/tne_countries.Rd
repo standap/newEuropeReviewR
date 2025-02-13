@@ -22,7 +22,7 @@ tne_countries
 }
 \description{
 The \code{tne_countries} dataset was created with a dictionary running against the
-\code{NewEuropeWeekly} corpus using a \code{quanteda} package. Unlike regular frequency
+\code{NewEurope} corpus using a \code{quanteda} package. Unlike regular frequency
 count that simply counts how many times a token was found in the corpus,
 this approach tallies multiple terms that are associated with the two-letter
 country code in the dictionary file.

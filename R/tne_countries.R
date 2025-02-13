@@ -1,7 +1,7 @@
 #' Count of References to Countries and Related Terms in the New Europe weekly
 #'
 #' The `tne_countries` dataset was created with a dictionary running against the
-#' `NewEuropeWeekly` corpus using a `quanteda` package. Unlike regular frequency
+#' `NewEurope` corpus using a `quanteda` package. Unlike regular frequency
 #' count that simply counts how many times a token was found in the corpus,
 #' this approach tallies multiple terms that are associated with the two-letter
 #' country code in the dictionary file. 

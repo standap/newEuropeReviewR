@@ -27,7 +27,7 @@ tne_articles
 \description{
 The \code{tne_articles} dataset contains a text corpus composed of full text
 articles published in the foreign policy weekly \emph{The New Europe} between 1916
-and 1920. The original OCR-ed text files were downloaded from the Hathi Trust
+and 1920. The original OCR-ed text files were downloaded from the HathiTrust
 Digital Library. The typos were corrected, various fragments introduced by
 the OCR were removed. The individual individual texts of articles,
 their authors, and titles were then extracted into a table. This corpus
