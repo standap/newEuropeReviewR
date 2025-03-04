@@ -1,0 +1,12 @@
+bibentry(
+  bibtype  = "Misc",
+  title    = "newEuropeReviewR: The New Europe Review data archive",
+  author   = "Stanislav Pejša",
+  publisher  = "GitHub",
+  year     = 2024,
+  version   = "V0.97",
+  url      = "https://github.com/standap/newEuropeReviewR",
+  rights = "MIT",
+  description = "This R data package contains an R data package that consists of text corpus of articles from the complete run of the foreign policy weekly The New Europe that were published between 1916 and 1921.",
+  type = "DCMITYPE:Dataset"
+)
