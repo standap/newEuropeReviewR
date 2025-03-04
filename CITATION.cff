@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'newEuropeReviewR: The New Europe Review data archive'
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Stanislav
+    family-names: Pejša
+    email: standap@gmail.com
+    orcid: 'https://orcid.org/0000-0001-5057-262X'
+repository-code: 'https://github.com/standap/newEuropeReviewR/'
+abstract: >-
+  This R data package contains an R data package that
+  consists of text corpus of articles from the complete run
+  of the foreign policy weekly The New Europe that were
+  published between 1916 and 1921. It also contains an
+  additional file with frequencies of terms that are
+  associated with a great number of countries mentioned on
+  the pages of The New Europe weekly. The texts deal mainly
+  with analysis of the war developments and the impact of
+  the war on the re-making of the postwar world order. Many
+  of the authors envisioned changes of political borders in
+  Europe that would be more closely aligned along the ethnic
+  lines. A relatively radical and unconventional view in the
+  prewar Europe. The corpus reveals how was this opinion
+  anchored in the prewar political theory and how this
+  thinking evolved during the First World War, and impacted
+  shaping of the new postwar world order at the Paris Peace
+  Conference in 1919.
+keywords:
+  - text analysis
+  - computational history
+  - text corpus
+license: MIT
