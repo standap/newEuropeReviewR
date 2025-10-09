@@ -37,21 +37,20 @@ After installing `newEuropeReviewR`, simply write the name of the dataset. The d
 ```
 tne_articles
 ```
-# Five top authors of the authors. Most contributions are not signed, often written by Seton-Watson.
+**Five top authors of the authors. Most contributions are not signed, often written by Seton-Watson**
+```
 tne_articles |> 
   count(author_norm, sort = TRUE) |> 
   head(5)
 ```
-
+**Most frequently mentined countries and the related terms**
 ```
-# Most frequently mentined countries and the related terms
 tne_countries |> 
   count(code, wt = count, sort = TRUE) |> 
   head(5)
 ```
-
+**Run the dictionary file**
 ```
-# how was the dictionary run
 library(quanteda)
 articles_corp <- corpus(tne_articles)
 articles_tokens <- tokens(articles_corp, 
