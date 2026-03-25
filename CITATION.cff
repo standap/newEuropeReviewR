@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'newEuropeReviewR: The New Europe Review data archive'
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Stanislav
+    family-names: Pejša
+    orcid: 'https://orcid.org/0000-0001-5057-262X'
+identifiers:
+  - type: url
+    value: 'https://github.com/standap/newEuropeReviewR/'
+    description: The URL of version 1.0.0 of the software
+repository-code: 'https://github.com/standap/newEuropeReviewR/'
+keywords:
+  - text analysis
+  - computational history
+  - word embeddings
+license: MIT

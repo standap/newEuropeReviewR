@@ -9,7 +9,7 @@
 This R data package contains text files for the complete run of the foreign policy weekly _The New Europe_ that was published between 1916 and 1920.
 }
 \author{
-\strong{Maintainer}: Stanislav Pejša \email{spejsa@purdue.edu} (\href{https://orcid.org/0000-0001-5057-262X}{ORCID})
+\strong{Maintainer}: Stanislav Pejša \email{stanislavpejsa@gmail.com} (\href{https://orcid.org/0000-0001-5057-262X}{ORCID})
 
 }
 \keyword{internal}
