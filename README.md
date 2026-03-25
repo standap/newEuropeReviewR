@@ -36,39 +36,32 @@ remotes::install_github("standap/newEuropeReviewR")
 
 After installing `newEuropeReviewR`, simply write the name of the dataset. The data frame is ready to be used as is. The data are already in the tidy format. 
 
-No additional packages are required to use this data package. The `quanteda` code above is provided for transparency, showing how the tne_countries dataset was created.
+No additional packages are required to use this data package. The `quanteda` code below is provided for documentation and transparency, showing how the tne_countries dataset was created.
 
 ```
 tne_articles
 ```
-<<<<<<< HEAD
-**Five top authors of the authors. Most contributions are not signed, often written by Seton-Watson**
-```
-=======
 
 ```
 # Five top authors. Most contributions are not signed, often written by Seton-Watson.
->>>>>>> 254216d (corrected and cleaned documentation)
+
 tne_articles |> 
   count(author_norm, sort = TRUE) |> 
   head(5)
 ```
-**Most frequently mentined countries and the related terms**
+
 ```
-<<<<<<< HEAD
-=======
 # Most frequently mentioned countries and the related terms
->>>>>>> 254216d (corrected and cleaned documentation)
+
 tne_countries |> 
   count(code, wt = count, sort = TRUE) |> 
   head(5)
 ```
+
 **Run the dictionary file**
+
 ```
-<<<<<<< HEAD
-=======
 # How was the dictionary run
->>>>>>> 254216d (corrected and cleaned documentation)
 library(quanteda)
 articles_corp <- corpus(tne_articles)
 articles_tokens <- tokens(articles_corp, 
