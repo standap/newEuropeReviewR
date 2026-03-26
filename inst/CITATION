@@ -5,6 +5,7 @@ bibentry(
   publisher  = "GitHub",
   year     = 2026,
   version   = "V1.00",
+  doi = "10.5281/zenodo.19237176"
   url      = "https://github.com/standap/newEuropeReviewR",
   rights = "MIT",
   description = "This R data package contains a text corpus of articles from 
