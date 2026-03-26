@@ -1,5 +1,5 @@
 Package: newEuropeReviewR
-Title: The New Europe Review data archive (1916-1920)
+Title: The New Europe data archive (1916-1920)
 Version: 1.0.0
 Authors@R: 
     person(given = "Stanislav",
@@ -8,7 +8,7 @@ Authors@R:
     role = c("aut", "cre"),
     comment = c(ORCID = "0000-0001-5057-262X"))
 Description: This R data package contains a text corpus of articles from 
-    the complete run of the foreign policy weekly _The New Europe_, 
+    the complete run of the foreign policy weekly The New Europe, 
     published between 1916 and 1920, together with bibliographic metadata 
     and country frequency counts derived from the corpus.
 License: MIT + file LICENSE
