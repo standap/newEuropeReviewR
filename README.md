@@ -1,4 +1,10 @@
 # newEuropeReviewR
+
+<!-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) -->
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html)
+<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5057--262X-green.svg)](https://orcid.org/0000-0001-5057-262X)
+
 This R data package contains a text corpus of articles from the complete run of the foreign policy weekly _The New Europe_ that were published between 1916 and 1920. It also contains an additional file with frequencies of terms that are associated with countries mentioned in the pages of _The New Europe_ weekly. Although the texts deal mainly with analysis of the wartime developments, many contributions contain early concepts of political changes in Europe that envisioned political borders more closely aligned along the ethnic and linguistic lines. The weekly offered a radical and unconventional view of the postwar Europe. The corpus reveals how the views of _The New Europe_'s authors were anchored in the prewar political theory and how this thinking evolved during the First World War. Crucially, the texts reveal how this thinking impacted the shaping of the new postwar world order at the Paris Peace Conference in 1919.
 
 _The New Europe_ corpus contains 2128 texts: 1442 articles, 411 notes typically unsigned and contributed by the editors, 266 reviews, and 9 letters to the editors. 210 numbered issues were bound in seventeen volumes. On average, there were ten texts in each issue. In the dataset, each text is identified by a sequential identifier, but the bibliographic metadata for each text are also part of the dataset.

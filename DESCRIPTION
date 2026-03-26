@@ -1,14 +1,13 @@
 Package: newEuropeReviewR
-Title: Data package contains a complete run of the foreign policy weekly 'The New Europe'
-Version: 1.0.0
+Title: newEuropeReviewR: The New Europe Review data archive
+Version: 1.0
 Authors@R: 
     person(given = "Stanislav",
     family = "Pejša",
     email = "stanislavpejsa@gmail.com",
     role = c("aut", "cre"),
     comment = c(ORCID = "0000-0001-5057-262X"))
-Date: 2026
-Maintainer: The package maintainer <standap@gmail.com>
+Date: 2026-03-24
 Description: This R data package contains text files for the complete run of the foreign policy weekly _The New Europe_ that was published between 1916 and 1920.
 License: MIT + file LICENSE
 LazyData: true
