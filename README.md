@@ -1,6 +1,6 @@
 # newEuropeReviewR
 
-<!-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html)
 <!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5057--262X-green.svg)](https://orcid.org/0000-0001-5057-262X)
@@ -57,7 +57,7 @@ EUROPE:
   EAST:
      AH': [Austria-Hungar*, Austro-Hungar*, Ballhausplatz, Habsburg]  
     'BG': [Bulgaria*, Bulgarian*, Bulgars, Sofia] 
-    # A historically more relevent entry for Czechoslovakia
+    # A historically more relevant entry for Czechoslovakia
     'CS': [Czechoslovak*, Czecho-Slovakia, Czech*, Slovak*, Slovakia, Prague, Bratislava, Ruthenian*, Pressburg, Bohemia, Moravia]  
     #'CZ': [Czech Republic, Czech*, Prague]  
     'HU': [Hungary, Hungarian*, Budapest, Magyar*]  
@@ -120,4 +120,7 @@ Table: List of bound volumes with number of issues that make up the `newEuropeRe
 |njp.32101059985166 |XVII   |      3|
 
 ## Updates
-The package was updated on 2026-03-24 when publication dates for three issues were corrected due to an OCR error. This is version 1.0.0. 
+The package was updated on 2026-03-24 when publication dates in `tne_articles` for three issues, due to OCR errors, were corrected. This is version 1.0.0. 
+
+## How to cite this work
+To cite this package, use the citation information provided in CITATION.cff or click "Cite this repository" in the sidebar.

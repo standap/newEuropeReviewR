@@ -12,8 +12,8 @@ authors:
     family-names: Pejša
     orcid: 'https://orcid.org/0000-0001-5057-262X'
 date-released: 2026-03-24
-abstract: 'This R data package contains a text corpus of articles from the complete run of the foreign policy weekly _The New Europe_ that were published between 1916 and 1920. The weekly offered a radical and unconventional view of the postwar Europe. The corpus reveals how the views of _The New Europe_'s authors were anchored in the prewar political theory and how this thinking evolved during the First World War. Crucially, the texts reveal how this thinking impacted the shaping of the new postwar world order at the Paris Peace Conference in 1919. The dataset is made available for text analysis of the journal.' 
-version: '1.0'
+abstract: "This R data package contains a text corpus of articles from the complete run of the foreign policy weekly _The New Europe_ that were published between 1916 and 1920. The weekly offered a radical and unconventional view of the postwar Europe. The corpus reveals how the views of _The New Europe_'s authors were anchored in the prewar political theory and how this thinking evolved during the First World War. Crucially, the texts reveal how this thinking impacted the shaping of the new postwar world order at the Paris Peace Conference in 1919." 
+version: '1.0.0'
 repository-code: 'https://github.com/standap/newEuropeReviewR/'
 keywords:
   - text analysis

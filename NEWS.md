@@ -1,19 +1,18 @@
-# newEuropeReviewR News0
+# newEuropeReviewR News
 
-## newEuropeReviewR 1.0 (2026-03-24)
+## newEuropeReviewR 1.0.0 (2026-03-24)
 
-### Bug fixes
-- Corrected publication dates for three issues that were incorrectly assigned due to an OCR error.
+<!-- ### Bug fixes -->
 
 ### Data
-- Updated the `tne_articles` dataset.
+- Corrected publication dates for three issues in `tne_articles` that were incorrectly assigned due to OCR errors.
 
 ### Documentation
 - Updated README. Corrected typos, updated code snippets for usage examples.
 - Updated CITATION.cff for academic citation.
 - Added NEWS.md.
 
-## newEuropeReviewR 0.97 (2025-03-04)
+## newEuropeReviewR 0.9.0 (2025-03-04)
 
 ### Data
 - Initial release of the `tne_articles` dataset (2128 texts).
